@@ -9,3 +9,6 @@ Database agnostic schema migrations.
 Robust background job processing.
 Real-time event broadcasting.
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+
+0x8c26ff362fdc1e1bbec40e9909730140c0f6faef
